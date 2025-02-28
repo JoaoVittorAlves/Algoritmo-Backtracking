@@ -1,6 +1,6 @@
 import time
 from maze import Maze
-# Por enquanto esse é o codigo, estou tentando descobrir o porque de não estar respondendo
+# estou tentando descobrir o porque de não estar respondendo depois que roda
 
 class Pilha:
     def __init__(self):
